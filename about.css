@@ -1,0 +1,84 @@
+
+
+body {
+    background-image:url("about background.jpeg ");
+    background-size: 1550px 800px;
+    background-repeat: no-repeat;
+   
+   
+
+   
+}
+
+ul{
+    float:left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.navbar{
+    width: 1200px;
+    height: 100px;
+   margin-left: 200px;
+   margin-top: -20px;
+}
+
+.icon{
+    width: 300px;
+    float: left;
+    height: 1000px;
+}
+
+.logo{
+    color: red;
+    font-size: 35px;
+    font-size: Arial;
+    padding-left: 40px;
+    float: left;
+    padding-top: 0px;
+}
+
+.menu{
+    color: gold;
+    width: 800px;
+    float: right;
+    height: 70px;
+}
+
+
+ul li{
+    list-style: none;
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: azure;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.1s ease-in-out;
+
+}
+
+ul li a:hover{
+    color: orange;
+}
+.p{
+    text-align: center;
+   color: aliceblue;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-right: 500px;
+}
+p{
+    
+    font-weight: 100000;
+   
+}
+
